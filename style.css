@@ -1,0 +1,21 @@
+.firstrow{
+    display:flex;
+    justify-content: space-between;
+    
+    flex-wrap: wrap;
+    
+}
+.firstcolumns{
+    margin-top: 1%;
+}
+.hvr:hover{
+    background-color: rgba(0, 255, 0, 0.378);
+    color: black;
+    outline: none;
+    box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+    border-top: 2px solid darkgreen;
+    border-left: 2px solid darkgreen;
+    border-bottom: 2px solid limegreen;
+    border-right: 2px solid limegreen;
+}
+   
